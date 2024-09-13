@@ -1,12 +1,11 @@
-# Description:
-pr_agent:summary
+# Description
 
-## Jira:
+## Jira
 
 - [X] Related ticket: ENG-
 
 ## What areas of the site does it impact?
-- (Describe what parts of the site are impacted and *if* code updated other areas)
+- (Describe what parts of the site are impacted and if code updated other areas)
 - Ex. Checkout, Redemption page, accounts page, homepage, browse
 
 ## Other Notes
@@ -14,13 +13,13 @@ pr_agent:summary
 
 ## How to Test
 - Best way to test?
-- Is this part of an A/B test? (Give experiment slug and variants)
+- Is this part of an AB test? (Give experiment slug and variants)
 - What should the tester look out for?
 
 ## Visual changes (if applicable)
-### - Before:
+### - Before
 
-### - After:
+### - After
 
 ## Checklist
 - [ ] I have performed self-review of my code
