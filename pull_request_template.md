@@ -14,7 +14,7 @@ pr_agent:summary
 
 ## How to Test
 - Best way to test?
-- Is this part of an A/B test? (Give experiment slug & variants)
+- Is this part of an A/B test? (Give experiment slug and variants)
 - What should the tester look out for?
 
 ## Visual changes (if applicable)
