@@ -4,13 +4,6 @@
 
 - [X] Related ticket: ENG-
 
-## What areas of the site does it impact?
-- (Describe what parts of the site are impacted and if code updated other areas)
-- Ex. Checkout, Redemption page, accounts page, homepage, browse
-
-## Other Notes
-- (Add any additional information that would be useful to the developer or QA tester)
-
 ## How to Test
 - Best way to test?
 - Is this part of an AB test? (Give experiment slug and variants)
